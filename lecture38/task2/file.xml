@@ -1,0 +1,14 @@
+<bookstore>
+  <book>
+    <title>Book1</title>
+    <author>author1</author>
+    <year>2001</year>
+    <price>1лв</price>
+  </book>
+  <book>
+    <title>Book2</title>
+    <author>author2</author>
+    <year>2002</year>
+    <price>2лв</price>
+  </book>
+</bookstore>

@@ -1,0 +1,14 @@
+<catalog>
+    <book>
+        <title>abook1</title>
+        <author>author1</author>
+    </book>
+    <book>
+        <title>book2</title>
+        <author>bauthor2</author>
+    </book>
+    <book>
+        <title>cbook3</title>
+        <author>cauthor3</author>
+    </book>
+</catalog>

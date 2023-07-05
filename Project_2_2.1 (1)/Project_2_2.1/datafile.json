@@ -1,0 +1,44 @@
+{
+    "carInfo": {
+        "brand": "Dacia",
+        "model": "Logan",
+        "year": 2010,
+        "reservoir_volume": 50,
+        "fuel_type": "Diesel"
+    },
+    "refuel_events": [
+        {
+            "date": "2023-01-03",
+            "distance": "700",
+            "total_odo": 76930,
+            "fuel_quantity": "30",
+            "fuel_amount": "3.33",
+            "total_price": 99.9,
+            "gas_station_name": "Petrol",
+            "gas_station_product": "\u0411\u0435\u043d\u0437\u0438\u043d 95",
+            "driving_type": ""
+        },
+        {
+            "date": "2023-05-09",
+            "distance": "10",
+            "total_odo": 76940,
+            "fuel_quantity": "10",
+            "fuel_amount": "10",
+            "total_price": 100,
+            "gas_station_name": "10",
+            "gas_station_product": "10",
+            "driving_type": "intercity"
+        },
+        {
+            "date": "2023-05-30",
+            "distance": "10",
+            "total_odo": 76950,
+            "fuel_quantity": "10",
+            "fuel_amount": "10",
+            "total_price": 100,
+            "gas_station_name": "10",
+            "gas_station_product": "10",
+            "driving_type": "intercity"
+        }
+    ]
+}
